@@ -1,7 +1,7 @@
 # Dynamic Pantry
 # Sustainable Pantry + Recipe Manager
 
-![Pantry + Recipe Manager Logo](""C:\Users\anish\OneDrive - Conestoga College\Desktop\Logo.png"")
+<img src="https://github.com/hepromark/DynamicPantry/blob/main/Logo.png" width=25% height=25%>
 
 Dynamic Pantry is a phone/web application designed to help you manage your pantry, reduce food waste, and cook delicious recipes while saving money. We focus on sustainability, food savings, and maximizing your pantry items. Here's what you can do with this app:
 
