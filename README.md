@@ -13,9 +13,9 @@ Dynamic Pantry is a phone/web application designed to help you manage your pantr
 
 - **Expiry Date Management**: Efficiently manage pantry items and their expiry dates. Our intelligent algorithm generates recipes based on ingredients nearing expiry to reduce waste.
 
-- **User Notifications**: Receive timely notifications about items near expiry. We'll also suggest recipes to use them up.
-
 - **User Profiles**: Create a personalized profile to track your food and cost savings over time.
+
+- **User Notifications**: Receive timely notifications about items near expiry. We'll also suggest recipes to use them up.
 
 ## Tech Stack
 - **Frontend**: HTML/CSS, JavaScript
