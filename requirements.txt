@@ -1,3 +1,5 @@
-flask
-Flask-PyMongo
-Flask-WTF
+1. Scan and Auto-add Ingredients: Scan receipts or barcodes automatically to add ingredients to your pantry. Say goodbye to manual data entry.
+2. Sustainability Stats: Keep track of your contributions to sustainability. View statistics on how much food you've saved from waste and how much money you've saved over time.
+3. Expiry Date Management: Efficiently manage pantry items and their expiry dates. Our intelligent algorithm generates recipes based on ingredients nearing expiry to reduce waste.
+4. User Notifications: Receive timely notifications about items near expiry. We'll also suggest recipes to use them up.
+5. User Profiles: Create a personalized profile to track your food and cost savings over time.
